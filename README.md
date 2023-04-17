@@ -2,7 +2,7 @@
 
 ## Description
 
-Application that enables employees to generate random passwords based on criteria that they’ve selected.
+An application built using javascript that enables employees to generate random passwords based on criteria that they’ve selected.
 
 ## User Story
 
@@ -31,3 +31,16 @@ THEN a password is generated that matches the selected criteria
 WHEN the password is generated
 THEN the password is either displayed in an alert or written to the page
 ```
+
+## Usage
+
+This application can be used to generate a password using preferences the user can choose to include.
+
+
+## 🔗 Links
+https://ashtonj7.github.io/Password-Generator/
+
+
+## Screenshots
+
+![image](https://user-images.githubusercontent.com/62944042/232613051-609cfc51-2859-45db-9b01-4e6afca59c42.png)
